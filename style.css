@@ -99,3 +99,6 @@ main > #formarea {
     font-size: 2rem;
   }
 }
+.scroll:hover {
+  cursor: pointer;
+}
